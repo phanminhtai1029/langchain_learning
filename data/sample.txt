@@ -1,0 +1,25 @@
+# Quy định công ty ABC
+
+## Chính sách nghỉ phép
+- Nhân viên chính thức được 12 ngày phép/năm.
+- Nhân viên thử việc được 1 ngày phép/tháng.
+- Phép năm không dùng hết sẽ được cộng dồn tối đa 5 ngày sang năm sau.
+- Muốn nghỉ phép trên 3 ngày phải đăng ký trước ít nhất 1 tuần.
+
+## Giờ làm việc
+- Giờ làm việc: 8:00 - 17:00, Thứ 2 đến Thứ 6.
+- Nghỉ trưa: 12:00 - 13:00.
+- Làm thêm giờ phải được quản lý phê duyệt trước.
+- Lương OT tính 150% ngày thường, 200% ngày nghỉ, 300% ngày lễ.
+
+## Chính sách lương thưởng
+- Lương trả vào ngày 5 hàng tháng qua chuyển khoản ngân hàng.
+- Thưởng tháng 13 vào dịp Tết Nguyên Đán.
+- Review lương 2 lần/năm vào tháng 4 và tháng 10.
+- KPI đạt trên 90% được thưởng thêm 1 tháng lương.
+
+## Chính sách đào tạo
+- Nhân viên mới có 2 tuần onboarding.
+- Mỗi nhân viên có budget đào tạo 5 triệu VNĐ/năm.
+- Được phép tham gia conference 2 lần/năm do công ty tài trợ.
+- Mentor 1-on-1 hàng tuần trong 3 tháng đầu.

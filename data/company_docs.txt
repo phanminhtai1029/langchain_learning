@@ -1,0 +1,71 @@
+# Sổ tay nhân viên công ty TechVN
+
+## Chương 1: Tổng quan công ty
+
+TechVN được thành lập năm 2015, chuyên phát triển giải pháp phần mềm AI và Cloud cho doanh nghiệp. Trụ sở chính tại TP.HCM, với chi nhánh tại Hà Nội và Đà Nẵng. Công ty hiện có hơn 500 nhân viên, trong đó 70% là kỹ sư phần mềm.
+
+Sứ mệnh: Ứng dụng AI để giải quyết các bài toán thực tế của doanh nghiệp Việt Nam.
+Tầm nhìn: Trở thành công ty AI hàng đầu Đông Nam Á vào năm 2030.
+
+## Chương 2: Quy trình tuyển dụng
+
+### 2.1 Các vòng phỏng vấn
+Quy trình gồm 4 vòng: (1) Sàng lọc CV, (2) Bài test kỹ thuật online 90 phút, (3) Phỏng vấn kỹ thuật với team lead 60 phút, (4) Phỏng vấn văn hóa với HR 30 phút. Ứng viên cần đạt tối thiểu 70% bài test kỹ thuật để vào vòng phỏng vấn.
+
+### 2.2 Chính sách thử việc
+Thời gian thử việc 2 tháng với mức lương 85% lương chính thức. Trong thời gian thử việc, nhân viên được assigned 1 mentor chuyên trách. Đánh giá thử việc dựa trên: hoàn thành task (40%), kỹ năng kỹ thuật (30%), teamwork (20%), communication (10%).
+
+### 2.3 Chương trình Fresher
+Chương trình Fresher kéo dài 3 tháng, dành cho sinh viên mới tốt nghiệp. Nội dung đào tạo gồm: Java/Python fundamentals (2 tuần), Framework training (3 tuần), Soft skills (1 tuần), Project thực tế (5 tuần). Fresher được trả lương 8-10 triệu/tháng trong thời gian đào tạo.
+
+## Chương 3: Chính sách lương thưởng
+
+### 3.1 Cấu trúc lương
+Lương gross gồm: lương cơ bản (70%), phụ cấp ăn trưa 800.000đ/tháng, phụ cấp đi lại 500.000đ/tháng, phụ cấp điện thoại 200.000đ/tháng. Lương trả qua ngân hàng Vietcombank vào ngày 10 hàng tháng.
+
+### 3.2 Thưởng và phúc lợi
+Thưởng tháng 13: trả vào dịp Tết Nguyên Đán, tối thiểu 1 tháng lương. Thưởng KPI quý: nếu đạt trên 90% KPI, thưởng 20% lương tháng. Thưởng dự án: 5-15% giá trị dự án phân bổ cho team. Review lương 2 lần/năm vào tháng 6 và tháng 12, mức tăng trung bình 10-20%.
+
+### 3.3 Bảo hiểm và chế độ
+Bảo hiểm xã hội, y tế, thất nghiệp theo Luật Lao động. Bảo hiểm sức khỏe PVI Care với hạn mức 30 triệu/năm cho nhân viên, 15 triệu/năm cho người thân. Khám sức khỏe tổng quát 1 lần/năm tại bệnh viện FV.
+
+## Chương 4: Chính sách nghỉ phép
+
+### 4.1 Phép năm
+Nhân viên chính thức: 15 ngày phép/năm (tăng 1 ngày mỗi 3 năm thâm niên, tối đa 20 ngày). Nhân viên thử việc: 1 ngày/tháng. Phép không sử dụng được chuyển tối đa 5 ngày sang năm sau hoặc thanh toán bằng tiền.
+
+### 4.2 Nghỉ đặc biệt
+Kết hôn: 3 ngày có lương. Vợ/chồng sinh con: 5 ngày (nam), 6 tháng (nữ). Tang: 3 ngày cho ông bà, cha mẹ, anh chị em. Hiến máu nhân đạo: 1 ngày. Tham gia bầu cử: nửa ngày.
+
+### 4.3 Nghỉ không lương
+Tối đa 30 ngày/năm, cần phê duyệt của trưởng phòng. Nghỉ trên 10 ngày liên tục cần phê duyệt của Giám đốc. Trong thời gian nghỉ không lương, nhân viên vẫn được đóng bảo hiểm.
+
+## Chương 5: Quy trình làm việc
+
+### 5.1 Giờ làm việc
+Giờ hành chính: 8:30 - 17:30, Thứ 2 - Thứ 6. Linh hoạt check-in từ 8:00-9:00, giờ ra tương ứng 17:00-18:00. Nghỉ trưa: 12:00-13:00. Work from home: tối đa 2 ngày/tuần, cần đăng ký trên hệ thống HRMS trước 1 ngày.
+
+### 5.2 Overtime (OT)
+OT phải được manager phê duyệt trước trên hệ thống. Lương OT: 150% ngày thường, 200% thứ 7/Chủ nhật, 300% ngày lễ. Tối đa 40 giờ OT/tháng theo quy định pháp luật. OT trên 4 giờ liên tục được hỗ trợ tiền ăn 100.000đ.
+
+### 5.3 Meeting và Communication
+Daily standup: 9:30 sáng, tối đa 15 phút. Sprint planning: đầu sprint (2 tuần/sprint). Sprint review/retro: cuối sprint. Tool chính: Slack (chat), Jira (task), Confluence (docs), Google Meet (họp).
+
+## Chương 6: Chính sách đào tạo
+
+### 6.1 Onboarding
+Tuần 1: IT setup, giới thiệu công ty, quy trình. Tuần 2: Training kỹ thuật với mentor. Tháng 1-3: Buddy system, pair programming. Đánh giá onboarding: tuần 2, tháng 1, tháng 3.
+
+### 6.2 Budget đào tạo
+Mỗi nhân viên: 10 triệu VNĐ/năm cho đào tạo cá nhân. Thanh toán: khóa học online (Udemy, Coursera), sách, thi chứng chỉ (AWS, Azure, GCP). Conference: công ty tài trợ 2 lần/năm, cả trong và ngoài nước.
+
+### 6.3 Career Path
+Junior (0-2 năm) → Mid-level (2-4 năm) → Senior (4-7 năm) → Lead/Architect (7+ năm). Nhánh quản lý: Senior → Team Lead → Engineering Manager → CTO. Review career path: hàng năm với direct manager trong buổi 1-on-1.
+
+## Chương 7: Bảo mật và IT
+
+### 7.1 Bảo mật thông tin
+Nhân viên phải ký NDA khi gia nhập công ty. Không chia sẻ source code, tài liệu nội bộ ra ngoài. Password phải đổi 90 ngày/lần, tối thiểu 12 ký tự gồm chữ hoa, thường, số, ký tự đặc biệt. Bật 2FA cho tất cả tài khoản công ty.
+
+### 7.2 Thiết bị
+Laptop do công ty cấp, cấu hình tối thiểu: i7/Ryzen 7, 16GB RAM, 512GB SSD. Nhân viên chịu trách nhiệm bảo quản thiết bị. Mất mát hoặc hư hỏng do lỗi cá nhân: bồi hoàn 30% giá trị thiết bị. Đổi/nâng cấp thiết bị: sau 3 năm sử dụng.
